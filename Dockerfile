@@ -5,7 +5,7 @@
 #
 FROM ruby:2.1.5
 
-ENV PORT 3002
+ENV PORT 3000
 ENV APP_DIR /app/
 
 # Move all source code to image
